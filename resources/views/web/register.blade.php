@@ -64,7 +64,7 @@
 	<div id="register">
 		<aside>
 			<figure>
-				<a href="{{ route('home') }}"><img src="{{ asset('assets/web/img/logo_sticky.svg') }}" width="140" height="35" alt=""></a>
+				<a href="{{ route('home') }}"><img src="{{ asset('assets/site/logo.png') }}" width="140" height="auto" alt=""></a>
 			</figure>
 			<div class="access_social">
 					<a href="#0" class="social_bt facebook">Register with Facebook</a>

@@ -2,7 +2,7 @@
     <div class="container">
         <div id="logo">
             <a href="{{ route('home') }}">
-                <img src="{{ asset('assets/site/logo.png') }}" width="162" height="35" alt="">
+                <img src="{{ asset('assets/site/logo.png') }}" width="160" alt="">
             </a>
         </div>
         <div class="layer"></div><!-- Opacity Mask Menu Mobile -->
